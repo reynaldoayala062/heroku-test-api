@@ -1,24 +1,3 @@
-# README
+This is a tutorial on how to set up your rails api to heroku. Click on blog to read more.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+https://reynaldo-ayala.medium.com/how-to-connect-ruby-on-rails-api-to-heroku-93dcfb122835
